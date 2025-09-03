@@ -13,7 +13,7 @@ This 4-week virtual internship focused to explore the fundamentals, building ess
 
 - **Program:** Edunet Foundation Virtual AI Internship 2025  
 - **Duration:** 15 July – 16 August 2025  
-- **Status:** 🟢 **Ongoing/In Progress**
+                                                    <!--**Status:** 🟢 **Ongoing/In Progress**-->
 - **Expected Completion:** 16 August 2025  
 - **Next Update:** Weekly progress and uploads.
 - **Focus Areas:**  
