@@ -54,6 +54,13 @@ This internship, supported by **Shell** and **Edunet Skills4Future (AICTE)**, he
 
 ---
 
+
+<img width="1162" height="657" alt="image" src="https://github.com/user-attachments/assets/d7b33c4f-b2af-4c4b-b5d4-6ecbd041f3ce" />
+
+
+<img width="1333" height="696" alt="image" src="https://github.com/user-attachments/assets/e5f4ce79-2671-4421-ab89-533e3d4c7b99" />
+
+
 **_“Learning AI today to build a smarter tomorrow!”_**
 
 
